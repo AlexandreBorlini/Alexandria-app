@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419406838178",
+    "project_id": "alexandria-teste",
+    "storage_bucket": "alexandria-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419406838178:android:5b9d6c4bf54469cdc8dafb",
+        "android_client_info": {
+          "package_name": "com.aovy.alexandria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOEiwTK9IYFNSMneUBTowir4FJ9HFojA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
